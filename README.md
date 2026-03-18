@@ -26,6 +26,8 @@
 * Seguir creciendo como ingeniera y ampliando mi impacto profesional
 * Participar en proyectos innovadores y de alto valor
 
+✨ *“Construir software es solo el comienzo — el verdadero valor está en los datos y las decisiones que podemos tomar con ellos.”*
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mluisaperis/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mluisapercru@gmail.com) 
 
@@ -37,10 +39,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mariaperis&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaperis&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-[![](https://visitcount.itsvg.in/api?id=mariaperis&icon=0&color=12)](https://visitcount.itsvg.in)
-
-✨ *“Construir software es solo el comienzo — el verdadero valor está en los datos y las decisiones que podemos tomar con ellos.”*
